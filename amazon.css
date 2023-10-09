@@ -1,0 +1,48 @@
+* {
+    font-family: 'Times New Roman';
+    font-weight: lighter;
+    
+}
+
+.alignments1 {
+        border-style: solid;
+        border-color: lightgrey;
+        width: 400px;
+        height:60px
+        padding: 1px 2px 3px 4px;
+        margin:auto
+        
+    
+}
+
+.alignments2 {
+    border-style: none;
+    width: 400px;
+    height:60px
+    padding: 10px;
+    margin:auto
+
+}
+
+.p1
+{
+    border-style: none;
+    width: 1350px;
+    height:100px
+  
+   
+}
+
+
+.center {
+
+    justify-content: center;
+
+}
+  
+span1, span2 {
+    word-spacing: 25px;
+}
+span4 {
+    word-spacing: 200px;
+}
